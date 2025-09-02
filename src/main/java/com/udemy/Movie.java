@@ -1,2 +1,4 @@
-package com.udemy;public class Movie {
+package com.udemy;
+
+public class Movie {
 }

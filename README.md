@@ -17,4 +17,5 @@ This is a very simple homework.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/hibernate-homeworks.git
+   git clone https://github.com/hliebpashko911/udemy-jv-creating-website-hibernate-first-hm.git
+
